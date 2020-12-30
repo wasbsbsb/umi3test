@@ -1,0 +1,15 @@
+.t {
+  display: flex;
+  margin-bottom: 18px;
+  height: 60px;
+}
+.t .s {
+  width: 160px;
+}
+.t .text {
+  flex: 1;
+}
+.t .user {
+  text-align: center;
+  font-size: 18px;
+}
